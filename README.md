@@ -1,6 +1,6 @@
 Installation
  # Clone the project
- git clone https://github.com/ramoncrisante/laravel-vue-dashboard.git
+ git clone https://github.com/izsal/Laravel_backend_test.git
 
  # Enter the project directory
  cd project
